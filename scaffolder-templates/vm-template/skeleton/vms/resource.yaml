@@ -4,7 +4,7 @@ metadata:
   name: ${{values.resource_id}}
   description: a Fedora VM
   links:
-    - url: https://console-openshift-console.apps.cluster-pntr8.pntr8.sandbox988.opentlc.com/k8s/ns/${{values.application_id}}-dev/kubevirt.io~v1~VirtualMachine/${{values.resource_id}}/console/standalone
+    - url: https://console-openshift-console.apps.cluster-q4dlx.q4dlx.sandbox744.opentlc.com/k8s/ns/${{values.application_id}}-dev/kubevirt.io~v1~VirtualMachine/${{values.resource_id}}/console/standalone
       title: VM Console
       icon: web  
 spec:

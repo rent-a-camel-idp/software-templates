@@ -4,7 +4,7 @@ quarkus-pipeline:
   repositoryOwner: ${{values.organization}}
   ownerType: organization
   repositoryName: ${{values.repo_id}}
-  # https://el-raffa-qrs2-myapp-build.apps.cluster-pntr8.pntr8.sandbox988.opentlc.com
+  # https://el-raffa-qrs2-myapp-build.apps.cluster-q4dlx.q4dlx.sandbox744.opentlc.com
   baseURL: dummy
 
   #helm upgrade raffa-qrs2 .helm/tekton -i -n myapp-build 

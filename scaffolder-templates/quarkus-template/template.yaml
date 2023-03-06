@@ -117,7 +117,7 @@ spec:
           http_port: 8080
           application: ${{ parameters.application }}
           organization: rent-a-camel-idp
-          baseURL: cluster-pntr8.pntr8.sandbox988.opentlc.com
+          baseURL: cluster-q4dlx.q4dlx.sandbox744.opentlc.com
           team: ${{ parameters.owner }}
           repo_id: ${{ parameters.component_id }}
         targetPath: ./tenant-gitops          
